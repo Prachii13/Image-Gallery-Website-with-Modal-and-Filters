@@ -1,0 +1,9 @@
+image-gallery/
+├── index.html
+├── style.css
+├── script.js
+├── images/
+│   ├── nature1.jpg
+│   ├── tech1.jpg
+│   └── ...
+├── README.md
